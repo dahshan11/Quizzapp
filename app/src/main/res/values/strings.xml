@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quizz app</string>
+
+
+    <string name="q1">answer 1</string>
+    <string name="answer_here">answer here</string>
+    <string name="q2">answer 1 , 2</string>
+    <string name="answer1_q2">1</string>
+    <string name="answer2_q2">2</string>
+    <string name="answer3_q2">3</string>
+    <string name="q3">answer 1</string>
+    <string name="answer1_q3">1</string>
+    <string name="answer2_q3">2</string>
+    <string name="answer3_q3">3</string>
+    <string name="q4">answer 1</string>
+    <string name="submit">submit</string>
+    <string name="score">Score: </string>
+
+</resources>
